@@ -8,4 +8,4 @@ cmake ..
 make
 popd
 
-echo "#define R_BUILD_VERSION 0.1" > version.h
+echo "#define R_BUILD_VERSION 1.0" > version.h
